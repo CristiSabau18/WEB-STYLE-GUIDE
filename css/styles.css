@@ -396,7 +396,7 @@ a {
 /* ============================================= */
 /* line 24, ../../TREEHOUSE/WEB-STYLE-GUIDE/scss/base/_typography.scss */
 .headline-primary {
-  color: #58e1c1;
+  color: #51ddfc;
   margin-left: 10px;
 }
 
@@ -530,8 +530,7 @@ a {
   padding: 10px 0;
   display: block;
   width: 100%;
-  transition: background-color .2s ease-in-out, 
- color .2s ease-in-out;
+  transition: background-color .2s ease-in-out,  color .2s ease-in-out;
 }
 
 /* line 23, ../../TREEHOUSE/WEB-STYLE-GUIDE/scss/component/_navigation.scss */
